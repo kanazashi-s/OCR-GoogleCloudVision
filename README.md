@@ -3,7 +3,7 @@ OCR-GoogleCloudVision
 
 画像ファイルから、手書き文字認識を行います。    
 
-[Google-Cloud-Vision-APIのサンプルコード document_text/doctext.pyと、detect/beta_snippets.py](https://github.com/GoogleCloudPlatform/python-docs-samples/tree/master/vision/cloud-client/)を使用しています。
+[Google-Cloud-Vision-APIのサンプルコード detect/beta_snippets.py](https://github.com/GoogleCloudPlatform/python-docs-samples/tree/master/vision/cloud-client/)を使用しています。
 
 
 ## Description
